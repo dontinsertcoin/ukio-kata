@@ -1,0 +1,146 @@
+[
+  {
+    "initDate":"2022-10-15",
+    "endDate":"2023-03-31",
+    "apartment":
+      {
+        "rentPerMonth": "2300.0",
+        "utilitiesPerMonth":"215.0"
+      }
+  },
+  {
+    "initDate":"2021-10-31",
+    "endDate":"2022-01-31",
+    "apartment":
+      {
+        "rentPerMonth": "1750.0",
+        "utilitiesPerMonth":"170.0"
+      }
+  },
+  {
+    "initDate":"2022-10-15",
+    "endDate":"2023-02-28",
+    "apartment":
+      {
+        "rentPerMonth": "3000.0",
+        "utilitiesPerMonth":"215.0"
+      }
+  },
+  {
+    "initDate":"2022-01-01",
+    "endDate":"2022-03-31",
+    "apartment":
+      {
+        "rentPerMonth": "2100.0",
+        "utilitiesPerMonth":"200.0"
+      }
+  },
+  {
+    "initDate":"2022-02-15",
+    "endDate":"2022-09-30",
+    "apartment":
+      {
+        "rentPerMonth": "1900.0",
+        "utilitiesPerMonth":"180.0"
+      }
+  },
+  {
+    "initDate":"2022-01-15",
+    "endDate":"2022-07-15",
+    "apartment":
+      {
+        "rentPerMonth": "2050.0",
+        "utilitiesPerMonth":"210.0"
+      }
+  },
+  {
+    "initDate":"2022-12-15",
+    "endDate":"2023-05-31",
+    "apartment":
+      {
+        "rentPerMonth": "3200.0",
+        "utilitiesPerMonth":"300.0"
+      }
+  },
+  {
+    "initDate":"2022-10-31",
+    "endDate":"2023-02-15",
+    "apartment":
+      {
+        "rentPerMonth": "4100.0",
+        "utilitiesPerMonth":"370.0"
+      }
+  },
+  {
+    "initDate":"2022-04-15",
+    "endDate":"2022-07-31",
+    "apartment":
+      {
+        "rentPerMonth": "2650.0",
+        "utilitiesPerMonth":"210.0"
+      }
+  },
+  {
+    "initDate":"2021-01-31",
+    "endDate":"2021-12-31",
+    "apartment":
+      {
+        "rentPerMonth": "1500.0",
+        "utilitiesPerMonth":"120.0"
+      }
+  },
+  {
+    "initDate":"2022-10-15",
+    "endDate":"2023-03-31",
+    "apartment":
+      {
+        "rentPerMonth": "1800.0",
+        "utilitiesPerMonth":"190.0"
+      }
+  },
+  {
+    "initDate":"2021-12-31",
+    "endDate":"2022-05-31",
+    "apartment":
+      {
+        "rentPerMonth": "2000.0",
+        "utilitiesPerMonth":"200.0"
+      }
+  },
+  {
+    "initDate":"2022-03-31",
+    "endDate":"2022-06-15",
+    "apartment":
+      {
+        "rentPerMonth": "1234.0",
+        "utilitiesPerMonth":"321.0"
+      }
+  },
+  {
+    "initDate":"2022-01-31",
+    "endDate":"2023-01-31",
+    "apartment":
+      {
+        "rentPerMonth": "3125.0",
+        "utilitiesPerMonth":"450.0"
+      }
+  },
+  {
+    "initDate":"2022-02-15",
+    "endDate":"2022-06-15",
+    "apartment":
+      {
+        "rentPerMonth": "1950.0",
+        "utilitiesPerMonth":"195.0"
+      }
+  },
+  {
+    "initDate":"2022-05-31",
+    "endDate":"2022-09-15",
+    "apartment":
+      {
+        "rentPerMonth": "2450.0",
+        "utilitiesPerMonth":"225.0"
+      }
+  }
+]
